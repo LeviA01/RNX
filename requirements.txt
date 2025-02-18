@@ -1,0 +1,7 @@
+aiogram~=3.17.0
+pydantic-settings~=2.7.1
+pydantic~=2.10.6
+SQLAlchemy~=2.0.37
+urllib3~=2.3.0
+requests~=2.32.3
+python-dateutil~=2.9.0.post0
